@@ -1,0 +1,10 @@
+A = input()
+B = input()
+
+q = int(A) * int(B[2])
+w = int(A) * int(B[1])
+e = int(A) * int(B[0])
+print(q)
+print(w)
+print(e)
+print(q+w*10+e*100)

@@ -2,7 +2,7 @@
 이코테 기반 스터디, 백준 단계별로 풀어보기 (python)
 -   기간: 2023년 4월 13일 ~
 -   횟수: 주 5회
--   참고 사이트:  [이코테 유튜브](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC) [백준](https://www.acmicpc.net/)
+-   참고 사이트:  [이코테 유튜브](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC), [백준](https://www.acmicpc.net/)
 -   언어: 파이썬
 
 ## ✅  방법
